@@ -1,2 +1,3 @@
 # Flip-Countdown-Timer
-Flip countdown timer which works up to 99 weeks
+
+This Flip countdown timer works only up to 99 weeks.
